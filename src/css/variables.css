@@ -1,0 +1,12 @@
+:root {
+    --color-1 : #292526;
+    --color-2 : #787676;
+    --color-3 : #a2a1a2;
+    --color-4 : #f2f2f2;
+    --color-5 : #121111;
+}
+
+@font-face {
+    font-family: "Encode-Sans";
+    src: url(../storage/fonts/Encode_Sans/EncodeSans-VariableFont_wdth\,wght.ttf);
+}
