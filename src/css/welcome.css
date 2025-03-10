@@ -81,14 +81,13 @@ video {
 
 .btn-text {
     position: absolute;
-    top: 52.5%;
+    top: 56.5%;
     left: 49.6%;
     transform: translate(-50%, -50%);
     color: #0ff;
-    font-size: 1.2em;
     text-shadow: 0px 0px 10px #0ff;
     pointer-events: none; 
-    font-size: 10px;
+    font-size: 9px;
 }
 
 .btn img:hover {
@@ -102,7 +101,7 @@ video {
     transform: translateX(-50%);
     color: #0ff;
     text-shadow: 0px 0px 10px #0ff;
-    font-size: 2em;
+    font-size: 25px;
     text-align: center;
     width: 100%;
     padding: 10px 0;
