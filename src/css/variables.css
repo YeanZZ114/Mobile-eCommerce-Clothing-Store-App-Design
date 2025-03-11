@@ -10,3 +10,7 @@
     font-family: "Encode-Sans";
     src: url(../storage/fonts/Encode_Sans/EncodeSans-VariableFont_wdth\,wght.ttf);
 }
+@font-face {
+    font-family: "Blacklist";
+    src: url(../storage/fonts/Blacklisted.ttf);
+}
