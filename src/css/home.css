@@ -166,8 +166,12 @@ body {
     padding: 3%;
     color: white;
 }
-.product-card:nth-child(odd) {
+.product-card:nth-child(even) {
     margin-top: 30px;
+}
+
+#product1 {
+    margin-top: 0px;
 }
 
 .product-card:hover {
