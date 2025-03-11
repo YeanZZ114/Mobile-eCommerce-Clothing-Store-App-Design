@@ -1,3 +1,4 @@
+@import url(../css/variables.css);
 * {
     margin: 0;
     padding: 0;
@@ -31,7 +32,9 @@ body {
     width: 100%;
     color: white;
 }
-
+.welcome span{
+    font-family: "Blacklist";
+}
 .welcome h2 {
     font-size: 18px;
     margin-top: 5px;
@@ -115,6 +118,10 @@ body {
     border: 1px solid #787676;
     color: white;
     background: none;
+    font-family: "Blacklist";
+}
+.category i {
+    font-size: 18px;
 }
 
 .category.active {
@@ -166,6 +173,7 @@ body {
 .product-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 5px 15px rgba(217, 0, 255, 0.678);
+    background: #B197FC;
 }
 
 .product-image {
@@ -211,7 +219,8 @@ body {
 
 .star {
     color: #ffb800;
-    font-size: 14px;
+    font-size: 19px;
+    margin-bottom: 3PX;
 }
 
 .footer-nav {
