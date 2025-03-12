@@ -306,3 +306,11 @@ body {
 .product-image:hover .hover-img {
     display: block;
 }
+.product-card a{
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+.product-card, .product-card * {
+    text-decoration: none;
+}

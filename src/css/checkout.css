@@ -70,18 +70,11 @@ body {
     }
 }
 
-.status-bar .time {
-    font-size: 14px;
-}
 
-.status-bar .icons {
-    display: flex;
-    gap: 5px;
-}
 
 .checkout-container {
     padding: 0 16px;
-    height: calc(100% - 44px);
+    height: calc(100% - 0px);
     display: flex;
     flex-direction: column;
 }
@@ -517,3 +510,6 @@ body {
         transform: translateY(-2px);
 }
 
+.back-link, * {
+    text-decoration: none;
+}
