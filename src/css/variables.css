@@ -10,11 +10,3 @@
     font-family: "Encode-Sans";
     src: url(../storage/fonts/Encode_Sans/EncodeSans-VariableFont_wdth\,wght.ttf);
 }
-@font-face {
-    font-family: "Insana-insanidad";
-    src: url(/src/storage/fonts/extrablur/ExtraBlur.ttf);
-}
-@font-face {
-    font-family: "Acid";
-    src: url(/src/storage/fonts/acidic/Acidic.TTF);
-}
